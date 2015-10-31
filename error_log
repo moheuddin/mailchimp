@@ -1,0 +1,1 @@
+[24-Oct-2015 07:52:54 UTC] PHP Fatal error:  Call to a member function listSubscribe() on a non-object in /home/clapstickhost/public_html/elixir/mailchimptest/ajax.php on line 25
